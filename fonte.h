@@ -1,4 +1,6 @@
-/* fonte.h: Biblioteca com o prototipo da função NAME_OF_FUNCTION
+/* Git Hub: https://github.com/Bacagine/Modelos
+ * 
+ * fonte.h: Biblioteca com o prototipo da função NAME_OF_FUNCTION
  * 
  * Biblioteca criada por Gustavo Bacagine <gustavo.bacagine@protonmail.com>
  * 

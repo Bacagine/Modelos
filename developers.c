@@ -1,10 +1,13 @@
-/**************************************************************************
- * developers.c: Mostra os desenvolvedores da aplicação                   *
- *                                                                        *
- * Programa criado por Gustavo Bacagine <gustavo.bacagine@protonmail.com> *
- *                                                                        *
- * Data: 20/12/2019                                                       *
- **************************************************************************/
+/***********************************************************************
+ * Git Hub: https://github.com/Bacagine/Modelos                        *
+ *                                                                     *
+ * developers.c: Mostra os desenvolvedores da aplicação                *
+ *                                                                     *
+ * Desenvolvedores: Gustavo Bacagine <gustavo.bacagine@protonmail.com> *
+ *                  Nome             <meu_email@algumacoisa.com>       *
+ *                                                                     *
+ * Data: 20/12/2019                                                    *
+ ***********************************************************************/
 
 #include <stdio.h>
 #include <stdlib.h>         // Biblioteca para poder usar a função system("clear")

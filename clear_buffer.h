@@ -1,4 +1,6 @@
-/* buffer.h: Biblioteca com o prototipo da função clear_buffer
+/* Git Hub: https://github.com/Bacagine/Modelos
+ * 
+ * buffer.h: Biblioteca com o prototipo da função clear_buffer
  * 
  * Biblioteca criada por Gustavo Bacagine <gustavo.bacagine@protonmail.com>
  * 

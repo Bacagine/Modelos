@@ -1,10 +1,15 @@
-/**************************************************************************
- * menu.c: Modelo de um menu escrito em C                                 *
- *                                                                        *
- * Programa criado por Gustavo Bacagine <gustavo.bacagine@protonmail.com> *
- *                                                                        *
- * Data: 20/12/2019                                                       *
- **************************************************************************/
+/***********************************************************************
+ * Git Hub: https://github.com/Bacagine/Modelos                        *
+ *                                                                     *
+ * menu.c: Modelo de um menu escrito em C                              *
+ *                                                                     *
+ * Versão: (aqui deve vir a versão da sua aplicação. Ex.: 1.0)         *
+ *                                                                     *
+ * Desenvolvedores: Gustavo Bacagine <gustavo.bacagine@protonmail.com> *
+ *                  Nome             <meu_email@algumacoisa.com>       *
+ *                                                                     *
+ * Data: 20/12/2019                                                    *
+ ***********************************************************************/
 
 #include <stdio.h>
 #include <stdlib.h>           // Biblioteca usada para o system("clear")
